@@ -1,0 +1,8 @@
+1. created folder and file
+2. variables-
+   user defined and pre defined
+   arguements
+3. created user sucessfully
+   deleted created user sucessfully
+4. installing packages
+5. taking backup and storing it in s3 cloud and schedulling the backup
