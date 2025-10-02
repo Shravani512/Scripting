@@ -14,3 +14,4 @@ echo "chatur: ab file banake dikha"
 
 echo "le bana di file" >ranchoFile.txt
 
+echo "learning stashing"
