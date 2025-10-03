@@ -11,7 +11,11 @@ and keep this content same
 this is for stashing
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 test1!
+=======
+this is test for stash.
+>>>>>>> Stashed changes
 =======
 this is test for stash.
 >>>>>>> Stashed changes
