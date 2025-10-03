@@ -19,6 +19,7 @@ this is test for stash.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 test1!
 =======
 this is test for stash.
@@ -29,4 +30,7 @@ this is test for stash.
 =======
 this is test for stash.
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> 7e03296 (a)
+=======
 >>>>>>> 7e03296 (a)
