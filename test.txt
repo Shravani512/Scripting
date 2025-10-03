@@ -10,4 +10,8 @@ this is correct commit again
 and keep this content same
 this is for stashing
 
-
+<<<<<<< Updated upstream
+test1!
+=======
+this is test for stash.
+>>>>>>> Stashed changes
